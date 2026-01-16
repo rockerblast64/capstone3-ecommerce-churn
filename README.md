@@ -21,7 +21,7 @@ Features Used
   Tenure, Complain, SatisfactionScore, DaySinceLastOrder, PreferedOrderCat, MaritalStatus, dll.
 
 Files in This Repo
-  Capstone3_Churn.ipynb – Notebook utama berisi proses end-to-end modeling
+  Capstone Project 3 - Akbar.ipynb – Notebook utama berisi proses end-to-end modeling
   xgboost_final_model.pkl – Model yang telah disimpan
   README.md – Penjelasan singkat proyek
 
